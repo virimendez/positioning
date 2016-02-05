@@ -1,0 +1,15 @@
+div{
+	width: 200px;
+	height: 200px;
+	position: static;
+	
+}
+.azul{
+	background-color: purple;
+}
+.morado{
+	background-color: blue;
+}
+.negro{
+	background-color: green;
+}
