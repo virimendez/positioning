@@ -5,12 +5,14 @@ div{
 	
 }
 .azul{
-	background-color: purple;
+	background-color: blue;
+	
 }
 .morado{
-	background-color: blue;
+	background-color:purple;
 	margin-left: 200px;
+
 }
-.negro{
+.verde{
 	background-color: green;
 }
