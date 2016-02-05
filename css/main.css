@@ -1,18 +1,27 @@
 div{
 	width: 200px;
 	height: 200px;
-	position: relative;
-	
-}
-.azul{
-	background-color: blue;
+	position: absolute;
 	
 }
 .morado{
+	background-color: blue;
+	left: 0px;
+	top: 0px;
+}
+.azul{
 	background-color:purple;
-	margin-left: 200px;
+    right: 0px;
+    top: 0px;
 
 }
 .verde{
 	background-color: green;
+	bottom: 0px;
+	left:0px;
+}
+.amarillo{
+	background-color: yellow;
+	right: 0px;
+	bottom: 0px;
 }
